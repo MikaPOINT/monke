@@ -3,3 +3,7 @@ background: rgb(34,194,195);
 background: linear-gradient(0deg, rgba(34,194,195,1) 0%, rgba(104,177,71,1) 100%);
 background-repeat: repeat-x;
 }
+
+p {
+  font-weight: bold;
+}
